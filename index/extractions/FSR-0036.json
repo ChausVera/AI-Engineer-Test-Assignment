@@ -1,0 +1,17 @@
+{
+ "equipment_model": "VSP-750",
+ "equipment_family": "SALA VSP",
+ "service_type": "Maintenance",
+ "country": null,
+ "date": "2023-05-26",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 6.1,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": null,
+ "currency": null,
+ "summary": "Maintenance was conducted on the SALA VSP-750 sump pump, including replacing the impeller, gasket, and hydraulic relays."
+}

@@ -1,0 +1,17 @@
+{
+ "equipment_model": "PF-12/24",
+ "equipment_family": "press filter",
+ "service_type": null,
+ "country": "Australia",
+ "date": "12/6/2023",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 12.4,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": null,
+ "currency": null,
+ "summary": "Filter cloths were replaced and sensor calibration and hydraulic checks were performed on a Larox PF press filter."
+}

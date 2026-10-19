@@ -1,0 +1,17 @@
+{
+ "equipment_model": "ColumnCell",
+ "equipment_family": "Flotation Column",
+ "service_type": null,
+ "country": "Canada",
+ "date": "2023-10-19",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 6.7,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": 1239.5,
+ "travel_cost": 484.0,
+ "total_cost": 1835.5,
+ "currency": "CAD",
+ "summary": "Level sensor calibration, gasket replacement, and bias air flow adjustments were performed on a ColumnCell flotation column."
+}

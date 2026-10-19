@@ -1,0 +1,17 @@
+{
+ "equipment_model": "PF-DS",
+ "equipment_family": "tower press filter",
+ "service_type": null,
+ "country": "Sweden",
+ "date": "15/07/24",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 8.8,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": null,
+ "currency": null,
+ "summary": "Inspected a PF-DS tower press filter, replaced five filter cloths, and changed the hydraulic unit reservoir oil."
+}

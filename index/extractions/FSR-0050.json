@@ -1,0 +1,17 @@
+{
+ "equipment_model": "Orion",
+ "equipment_family": "pump",
+ "service_type": null,
+ "country": "Zambia",
+ "date": "12/1/23",
+ "quantity": 3.0,
+ "quantity_unit": "pump",
+ "labor_hours": 6.6,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": null,
+ "currency": null,
+ "summary": "The technician inspected and greased two Orion pumps and cleared stones from the suction strainer of a third pump."
+}

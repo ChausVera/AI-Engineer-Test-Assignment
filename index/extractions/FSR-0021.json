@@ -1,0 +1,17 @@
+{
+ "equipment_model": "MD650",
+ "equipment_family": "mill discharge pumps",
+ "service_type": "maintenance",
+ "country": "Zambia",
+ "date": "2023-01-12",
+ "quantity": 2.0,
+ "quantity_unit": "units",
+ "labor_hours": 13.7,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": null,
+ "currency": null,
+ "summary": "Standard maintenance was performed on two MD650 mill discharge pumps including replacing both impellers."
+}

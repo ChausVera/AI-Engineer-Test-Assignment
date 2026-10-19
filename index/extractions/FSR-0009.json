@@ -1,0 +1,17 @@
+{
+ "equipment_model": "MD600",
+ "equipment_family": "MD Series",
+ "service_type": null,
+ "country": "Canada",
+ "date": "2023-02-12",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 11.8,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": 1652.0,
+ "travel_cost": 612.0,
+ "total_cost": 4489.0,
+ "currency": "CAD",
+ "summary": "The worn impeller on an MD600 mill discharge pump was replaced and inspected."
+}

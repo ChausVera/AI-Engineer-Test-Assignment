@@ -1,0 +1,17 @@
+{
+ "equipment_model": null,
+ "equipment_family": "Filter Optimizer",
+ "service_type": "Recalibration",
+ "country": "Chile",
+ "date": "2024-02-15",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 8.4,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": 2850.0,
+ "currency": "USD",
+ "summary": "The Filter Optimizer control system algorithm was updated and recalibrated to optimize performance for new ore feed characteristics."
+}

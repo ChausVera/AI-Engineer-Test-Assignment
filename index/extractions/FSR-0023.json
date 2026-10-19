@@ -1,0 +1,17 @@
+{
+ "equipment_model": "Filter Optimizer",
+ "equipment_family": "Control System",
+ "service_type": null,
+ "country": "Sweden",
+ "date": "2024-01-22",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 8.4,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": 9660.0,
+ "travel_cost": 5850.0,
+ "total_cost": 22150.0,
+ "currency": "SEK",
+ "summary": "The Filter Optimizer software was updated and process control parameters were recalibrated followed by operator training."
+}

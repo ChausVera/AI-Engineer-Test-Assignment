@@ -1,0 +1,17 @@
+{
+ "equipment_model": "SonicSparger",
+ "equipment_family": null,
+ "service_type": null,
+ "country": "Finland",
+ "date": "2023-07-26",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 11.5,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": 2450.0,
+ "currency": "EUR",
+ "summary": "The technician inspected and cleaned the SonicSparger system and adjusted the froth wash water nozzles."
+}

@@ -1,0 +1,17 @@
+{
+ "equipment_model": "Larox PF",
+ "equipment_family": "Pressure Filter",
+ "service_type": "Preventive maintenance",
+ "country": "Australia",
+ "date": "2023-08-12",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 13.0,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": 3100.0,
+ "currency": "AUD",
+ "summary": "The technician performed preventive maintenance on the Larox PF pressure filter, replacing select clogged filter cloths and changing the hydraulic oil."
+}

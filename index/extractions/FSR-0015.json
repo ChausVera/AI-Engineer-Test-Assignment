@@ -1,0 +1,17 @@
+{
+ "equipment_model": null,
+ "equipment_family": "Filter Optimizer",
+ "service_type": null,
+ "country": "Chile",
+ "date": "2023-06-19",
+ "quantity": 2.0,
+ "quantity_unit": "units",
+ "labor_hours": 9.6,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": 912.0,
+ "travel_cost": 861.0,
+ "total_cost": 7908.0,
+ "currency": "USD",
+ "summary": "New Filter Optimizer controllers were installed and calibrated on two Larox PF filters."
+}

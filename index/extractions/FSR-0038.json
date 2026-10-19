@@ -1,0 +1,17 @@
+{
+ "equipment_model": "HZ",
+ "equipment_family": "Orion HZ",
+ "service_type": "Maintenance",
+ "country": null,
+ "date": "2023-03-12",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 9.6,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": null,
+ "currency": null,
+ "summary": "The Orion HZ pump was serviced by replacing the mechanical seal and cleaning and repacking the bearings."
+}

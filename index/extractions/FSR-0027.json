@@ -1,0 +1,17 @@
+{
+ "equipment_model": "Larox PF-DS",
+ "equipment_family": "Tower Press Filter",
+ "service_type": null,
+ "country": "Sweden",
+ "date": "2023-05-12",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 8.4,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": 655.2,
+ "travel_cost": 303.8,
+ "total_cost": null,
+ "currency": "EUR",
+ "summary": "Replaced 12 worn filter cloths and 24 fastening clips on a Larox PF-DS tower press filter and confirmed restored performance during operational testing."
+}

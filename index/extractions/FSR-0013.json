@@ -1,0 +1,17 @@
+{
+ "equipment_model": null,
+ "equipment_family": "Concorde Cell",
+ "service_type": null,
+ "country": "Russia",
+ "date": "2023-02-05",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 14.1,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": 2340.0,
+ "currency": "EUR",
+ "summary": "A blocked feed pipe on the Concorde Cell flotation unit was cleared and flushed."
+}

@@ -1,0 +1,17 @@
+{
+ "equipment_model": "CellStation",
+ "equipment_family": "Flotation Control System",
+ "service_type": "Commissioning",
+ "country": "Zambia",
+ "date": "2024-04-22",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 10.5,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": 3060.0,
+ "currency": "USD",
+ "summary": "The technician commissioned the CellStation flotation control system and calibrated level sensors across the circuit."
+}

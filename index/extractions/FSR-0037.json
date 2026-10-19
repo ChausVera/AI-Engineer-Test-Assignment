@@ -1,0 +1,17 @@
+{
+ "equipment_model": "PF-DS",
+ "equipment_family": "Larox PF-DS",
+ "service_type": "Standard maintenance",
+ "country": "Finland",
+ "date": "2023-02-05",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 6.1,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": null,
+ "currency": null,
+ "summary": "Standard maintenance was carried out on the Larox PF-DS filter, including cloth replacement and hydraulic system checks."
+}

@@ -1,0 +1,17 @@
+{
+ "equipment_model": null,
+ "equipment_family": "Filter Optimizer",
+ "service_type": null,
+ "country": "Australia",
+ "date": "2023-01-26",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 14.5,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": 5800.0,
+ "currency": "AUD",
+ "summary": "The Filter Optimizer control system algorithm was updated and recalibrated to accommodate changes in ore feed characteristics."
+}

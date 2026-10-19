@@ -1,0 +1,17 @@
+{
+ "equipment_model": "Concorde Cell",
+ "equipment_family": "Flotation Unit",
+ "service_type": null,
+ "country": "Peru",
+ "date": "2024-05-22",
+ "quantity": 2.0,
+ "quantity_unit": "units",
+ "labor_hours": 10.4,
+ "technicians": 1,
+ "parts_cost": 0.0,
+ "labor_cost": 1196.0,
+ "travel_cost": 586.5,
+ "total_cost": 1806.5,
+ "currency": "USD",
+ "summary": "Completed visual and dimensional wear inspections of the rotors and stators on two Concorde Cell flotation units before reassembling them."
+}

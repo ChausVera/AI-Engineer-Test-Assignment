@@ -1,0 +1,17 @@
+{
+ "equipment_model": "PF-DS",
+ "equipment_family": "Larox PF",
+ "service_type": null,
+ "country": "Canada",
+ "date": "2023-12-05",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 14.2,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": 1704.0,
+ "travel_cost": 909.5,
+ "total_cost": 4367.0,
+ "currency": "CAD",
+ "summary": "Routine servicing and replacement of filter cloths and worn hydraulic components were completed on the Larox PF-DS tower press filter."
+}

@@ -1,0 +1,17 @@
+{
+ "equipment_model": "Larox PF-DS",
+ "equipment_family": "Tower Press Filter",
+ "service_type": "preventive maintenance",
+ "country": "Sweden",
+ "date": "2023-11-19",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 9.1,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": 19850.0,
+ "currency": "SEK",
+ "summary": "Performed preventive maintenance on the PF-DS filter including replacing filter cloths, servicing hydraulics, and inspecting spray nozzles."
+}

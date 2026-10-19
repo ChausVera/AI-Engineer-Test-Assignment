@@ -1,0 +1,17 @@
+{
+ "equipment_model": "ColumnCell",
+ "equipment_family": "Flotation Column",
+ "service_type": null,
+ "country": "Sweden",
+ "date": "2023-01-12",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 13.8,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": 1863.0,
+ "travel_cost": 646.0,
+ "total_cost": 2770.0,
+ "currency": "EUR",
+ "summary": "The technician completed an internal inspection of the ColumnCell flotation column, replaced damaged wash water nozzles and gaskets, and recommissioned the unit."
+}

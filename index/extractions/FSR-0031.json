@@ -1,0 +1,17 @@
+{
+ "equipment_model": "Larox PF-DS",
+ "equipment_family": "Tower Press Filter",
+ "service_type": "preventive service",
+ "country": "Finland",
+ "date": "2023-09-05",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 6.2,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": 527.0,
+ "travel_cost": 341.0,
+ "total_cost": 2580.44,
+ "currency": "EUR",
+ "summary": "Replaced all 24 filter cloths, changed the hydraulic oil, replaced two sealing rings, and cleaned the washing system nozzles on a Larox PF-DS Tower Press Filter."
+}

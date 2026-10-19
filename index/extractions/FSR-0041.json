@@ -1,0 +1,17 @@
+{
+ "equipment_model": "CellStation",
+ "equipment_family": "Flotation Control System",
+ "service_type": null,
+ "country": "Russia",
+ "date": "2024-04-15",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 7.5,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": 2600.0,
+ "currency": "EUR",
+ "summary": "Updated the CellStation flotation control software, recalibrated the ExactLevel controller, and performed operational testing."
+}

@@ -1,0 +1,17 @@
+{
+ "equipment_model": "Concorde Cell",
+ "equipment_family": "Flotation Cell",
+ "service_type": "Standard maintenance",
+ "country": "Australia",
+ "date": "2024-12-08",
+ "quantity": 3.0,
+ "quantity_unit": "cells",
+ "labor_hours": 12.8,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": null,
+ "currency": null,
+ "summary": "The technician carried out maintenance, air system calibration, and rotor replacements on Metso Concorde Cell flotation units."
+}

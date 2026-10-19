@@ -1,0 +1,17 @@
+{
+ "equipment_model": null,
+ "equipment_family": "ColumnCell Flotation Column",
+ "service_type": "Inspection and cleaning",
+ "country": "Chile",
+ "date": "2024-02-08",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 9.2,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": 1012.0,
+ "travel_cost": 568.0,
+ "total_cost": 1706.0,
+ "currency": "USD",
+ "summary": "The technician performed safety checks, internal cleaning, nozzle replacements, and structural inspections on the ColumnCell flotation column."
+}

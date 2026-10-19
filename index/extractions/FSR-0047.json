@@ -1,0 +1,17 @@
+{
+ "equipment_model": "SALA VSP-750",
+ "equipment_family": "Vertical Sump Pump",
+ "service_type": null,
+ "country": "Canada",
+ "date": "2024-05-08",
+ "quantity": 1.0,
+ "quantity_unit": null,
+ "labor_hours": 15.5,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": 4790.0,
+ "currency": "CAD",
+ "summary": "Inspected the column pipe and replaced the worn impeller on the SALA VSP-750 vertical sump pump."
+}

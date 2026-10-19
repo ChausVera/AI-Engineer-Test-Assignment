@@ -1,0 +1,17 @@
+{
+ "equipment_model": "Concorde Cells",
+ "equipment_family": null,
+ "service_type": null,
+ "country": "Sweden",
+ "date": "8/12/24",
+ "quantity": 3.0,
+ "quantity_unit": "units",
+ "labor_hours": 6.4,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": null,
+ "currency": null,
+ "summary": "Calibration and rotor replacement work were performed on three Concorde Cells at the Aitik site."
+}

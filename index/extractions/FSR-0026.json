@@ -1,0 +1,17 @@
+{
+ "equipment_model": "Larox PF",
+ "equipment_family": "Pressure Filter",
+ "service_type": null,
+ "country": "Sweden",
+ "date": "2023-01-05",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 12.8,
+ "technicians": 1,
+ "parts_cost": 0.0,
+ "labor_cost": 12160.0,
+ "travel_cost": 5530.0,
+ "total_cost": 17690.0,
+ "currency": "SEK",
+ "summary": "Inspected the Larox PF Pressure Filter, replaced two cracked filter plates with on-site spares, renewed gaskets, and tested the system."
+}

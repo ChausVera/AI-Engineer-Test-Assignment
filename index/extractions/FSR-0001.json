@@ -1,0 +1,17 @@
+{
+ "equipment_model": "ColumnCell",
+ "equipment_family": "Flotation Column",
+ "service_type": null,
+ "country": "Chile",
+ "date": "2024-10-08",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 12.3,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": 1353.0,
+ "travel_cost": 165.0,
+ "total_cost": 1639.0,
+ "currency": "USD",
+ "summary": "The technician inspected the ColumnCell flotation column, replaced sparger seals, cleaned internal components, and adjusted air distribution."
+}

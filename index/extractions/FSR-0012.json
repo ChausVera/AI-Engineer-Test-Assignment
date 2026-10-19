@@ -1,0 +1,17 @@
+{
+ "equipment_model": null,
+ "equipment_family": "Orion Series",
+ "service_type": null,
+ "country": "Zambia",
+ "date": "2024-07-22",
+ "quantity": 3.0,
+ "quantity_unit": "units",
+ "labor_hours": 15.4,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": 1309.0,
+ "travel_cost": 656.5,
+ "total_cost": 2069.5,
+ "currency": "USD",
+ "summary": "Scheduled maintenance, lubrication, and seal inspections were performed on three Orion series slurry pumps."
+}

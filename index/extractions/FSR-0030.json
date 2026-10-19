@@ -1,0 +1,17 @@
+{
+ "equipment_model": "Concorde Cell",
+ "equipment_family": null,
+ "service_type": null,
+ "country": "Finland",
+ "date": "22-4-24",
+ "quantity": 2.0,
+ "quantity_unit": "cells",
+ "labor_hours": 15.4,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": null,
+ "currency": null,
+ "summary": "Inspected Metso Concorde Cells #1 and #3, checked stator clearances, and noted two worn rotors requiring future replacement."
+}

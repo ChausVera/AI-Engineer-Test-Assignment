@@ -1,0 +1,17 @@
+{
+ "equipment_model": "CellStation",
+ "equipment_family": "Flotation Control System",
+ "service_type": null,
+ "country": "Peru",
+ "date": "2023-03-26",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 7.4,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": 2150.0,
+ "currency": "USD",
+ "summary": "The technician updated the CellStation software and recalibrated the ExactLevel controller following process line modifications."
+}

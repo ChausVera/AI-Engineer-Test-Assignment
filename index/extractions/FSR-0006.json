@@ -1,0 +1,17 @@
+{
+ "equipment_model": "MD series",
+ "equipment_family": "Mill Discharge Pump",
+ "service_type": "Preventive maintenance",
+ "country": "Peru",
+ "date": "2024-11-22",
+ "quantity": 2.0,
+ "quantity_unit": "pumps",
+ "labor_hours": 6.8,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": 3540.0,
+ "currency": "USD",
+ "summary": "The technician performed preventive maintenance and replaced impellers on two MD650 mill discharge pumps."
+}

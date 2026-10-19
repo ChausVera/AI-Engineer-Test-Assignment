@@ -1,0 +1,17 @@
+{
+ "equipment_model": "MD",
+ "equipment_family": "mill discharge pump",
+ "service_type": null,
+ "country": "Sweden",
+ "date": "19/10/23",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": null,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": null,
+ "currency": null,
+ "summary": "Cleaned the bearing housing, replaced the seal kit and hydraulic unit, and adjusted loose sensor wiring on an MD mill discharge pump."
+}

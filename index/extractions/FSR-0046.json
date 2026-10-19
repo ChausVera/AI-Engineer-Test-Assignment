@@ -1,0 +1,17 @@
+{
+ "equipment_model": "ColumnCell",
+ "equipment_family": null,
+ "service_type": null,
+ "country": "Chile",
+ "date": "08/01/24",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 12.5,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": null,
+ "currency": null,
+ "summary": "Inspected tray assemblies, changed the hydraulic unit oil filter, tightened a bleed valve, calibrated sensors, and backflushed the sparger."
+}

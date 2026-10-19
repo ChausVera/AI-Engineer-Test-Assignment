@@ -1,0 +1,17 @@
+{
+ "equipment_model": "VSP-750",
+ "equipment_family": "SALA VSP",
+ "service_type": "Standard maintenance",
+ "country": "Finland",
+ "date": "2023-07-19",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 10.6,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": null,
+ "currency": null,
+ "summary": "Standard maintenance was performed on the SALA VSP-750 sump pump, including column pipe inspection and impeller replacement."
+}

@@ -1,0 +1,17 @@
+{
+ "equipment_model": "VSP-750",
+ "equipment_family": "SALA Vertical Sump Pump",
+ "service_type": "Maintenance",
+ "country": "Australia",
+ "date": "2023-03-19",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 10.9,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": 1580.5,
+ "travel_cost": 1134.0,
+ "total_cost": 3618.5,
+ "currency": "AUD",
+ "summary": "The SALA VSP-750 vertical sump pump underwent inspection, impeller and gasket replacement, and operational testing."
+}

@@ -1,0 +1,17 @@
+{
+ "equipment_model": "ColumnCell",
+ "equipment_family": "flotation column",
+ "service_type": "maintenance",
+ "country": "Zambia",
+ "date": "2024-06-15",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 13.2,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": null,
+ "currency": null,
+ "summary": "Standard maintenance and inspection were conducted on a ColumnCell flotation column and SonicSparger system."
+}

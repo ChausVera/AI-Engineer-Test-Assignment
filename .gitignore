@@ -1,0 +1,41 @@
+# API keys and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Assignment data and instructions
+data/
+candidate-brief.md
+
+# Logs
+*.log
+
+# Local generated indexes and embeddings
+*.npy
+*.npz
+vector_store/
+chroma_db/

@@ -1,0 +1,17 @@
+{
+ "equipment_model": null,
+ "equipment_family": "Larox PF",
+ "service_type": null,
+ "country": "Canada",
+ "date": "2024-01-15",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 9.9,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": 4150.0,
+ "currency": "CAD",
+ "summary": "A faulty hydraulic valve on the Larox PF pressure filter was replaced to resolve a system shutdown."
+}

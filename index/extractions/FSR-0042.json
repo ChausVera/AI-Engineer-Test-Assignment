@@ -1,0 +1,17 @@
+{
+ "equipment_model": "Larox PF",
+ "equipment_family": "pressure filter",
+ "service_type": "Emergency visit",
+ "country": "Russia",
+ "date": "2024-12-15",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 14.9,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": null,
+ "currency": null,
+ "summary": "Inspected the Larox PF pressure filter, carried out standard maintenance, and replaced a blocked hydraulic valve."
+}

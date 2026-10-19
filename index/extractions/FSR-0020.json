@@ -1,0 +1,17 @@
+{
+ "equipment_model": "Concorde Cell",
+ "equipment_family": "flotation unit",
+ "service_type": null,
+ "country": "South Africa",
+ "date": "2023-07-12",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 8.9,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": 15200.0,
+ "currency": "ZAR",
+ "summary": "Inspection of rotors and stators was performed on a Concorde Cell flotation unit."
+}

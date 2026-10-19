@@ -1,0 +1,17 @@
+{
+ "equipment_model": "Orion Series",
+ "equipment_family": "Horizontal Slurry Pump",
+ "service_type": null,
+ "country": "Russia",
+ "date": "2023-01-26",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 9.2,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": 2540.0,
+ "currency": "USD",
+ "summary": "The technician replaced the worn mechanical seal and cleaned and regreased the bearings on an Orion Series horizontal slurry pump."
+}

@@ -1,0 +1,17 @@
+{
+ "equipment_model": "Concorde Cell",
+ "equipment_family": null,
+ "service_type": null,
+ "country": "Sweden",
+ "date": "2024-11-15",
+ "quantity": null,
+ "quantity_unit": null,
+ "labor_hours": 8.4,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": null,
+ "currency": null,
+ "summary": "Inspected Metso Concorde Cell flotation units, performed minor cleaning, and identified two worn rotors for future replacement."
+}

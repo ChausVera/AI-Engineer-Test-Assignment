@@ -1,0 +1,17 @@
+{
+ "equipment_model": "MD650",
+ "equipment_family": "mill discharge pump",
+ "service_type": "scheduled preventive maintenance",
+ "country": "Australia",
+ "date": "2023-06-05",
+ "quantity": 2.0,
+ "quantity_unit": "pumps",
+ "labor_hours": 7.5,
+ "technicians": 1,
+ "parts_cost": null,
+ "labor_cost": null,
+ "travel_cost": null,
+ "total_cost": 5300.0,
+ "currency": "AUD",
+ "summary": "Performed scheduled preventive maintenance including replacing impellers and flushing systems on two MD650 mill discharge pumps."
+}

@@ -2,5 +2,7 @@ google-genai
 python-dotenv
 numpy
 pandas
-scikit-learn
 rich
+scipy
+rank-bm25
+pydantic

@@ -13,7 +13,6 @@ Outputs in index/:
 import argparse
 import json
 import re
-import time
 from typing import Optional
 
 import numpy as np
